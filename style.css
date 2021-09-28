@@ -88,3 +88,6 @@ header .brand{
     cursor: pointer;
     margin: 10px 30px;
 }
+header h3{
+  color: #fff;
+}
